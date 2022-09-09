@@ -1,0 +1,20 @@
+{
+  "name": "api-movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos-px/api-movies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcos-px/api-movies/issues"
+  },
+  "homepage": "https://github.com/marcos-px/api-movies#readme"
+}
